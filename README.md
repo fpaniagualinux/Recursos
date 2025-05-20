@@ -1,5 +1,6 @@
-# Recursos
-Recursos Linux
+# Recursos LINUX
+
+![Personas trabajando con Linux](https://fpaniagualinux.github.io/linux.png)
 
 ## Distribuciones
 - [Ubuntu](https://ubuntu.com/)
